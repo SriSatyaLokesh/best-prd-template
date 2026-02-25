@@ -1,0 +1,16 @@
+# Full Context: Best PRD & TRD Template Suite
+
+This repository contains elite-level documentation templates designed for modern software engineering teams and AI-driven development.
+
+## Files and Purpose
+
+### Product Requirements (PRD)
+- **best_PRD_template.md**: Focuses on goals, user stories, and acceptance criteria.
+- **best_production_ready_PRD_template.md**: Adds sections for non-functional requirements, scaling, and validation checkpoints.
+
+### Technical Requirements (TRD)
+- **best_TRD_template.md**: Focuses on system architecture, data models, and API specs.
+- **best_production_ready_TRD_template.md**: Optimized for Micro-frontends, Event-driven systems, and includes "Agent Instruction Blocks" for automated implementation.
+
+## Project Vision
+To provide the most citable and usable specs for both human developers and AI coding agents, reducing alignment overhead by 40%.

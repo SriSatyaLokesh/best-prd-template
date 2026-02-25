@@ -1,0 +1,15 @@
+# Best PRD & TRD Template Suite
+
+Comprehensive, AI-optimized templates for Product and Technical requirements.
+
+## Core Templates
+- [best_PRD_template.md](best_PRD_template.md): Standard product specs.
+- [best_production_ready_PRD_template.md](best_production_ready_PRD_template.md): High-scale enterprise specs.
+- [best_TRD_template.md](best_TRD_template.md): Engineering architecture specs.
+- [best_production_ready_TRD_template.md](best_production_ready_TRD_template.md): Modular, mono-context technical specs.
+
+## Keywords
+best prd template, technical requirements document, ai specs, software design, engineering docs, architecture decision record, system design blueprint, devops plan.
+
+## Usage
+Specifically optimized for Agent-First workflows (Claude, Gemini, GPT). Use the prompts in README.md for 10x better results.
