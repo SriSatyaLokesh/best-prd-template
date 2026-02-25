@@ -18,6 +18,7 @@
 
 [![Agent-Ready](https://img.shields.io/badge/Agent--Ready-Verified-brightgreen?style=for-the-badge&logo=ai)](https://github.com/SriSatyaLokesh/best-prd-template)
 [![Production-Grade](https://img.shields.io/badge/Production--Grade-Extreme-blue?style=for-the-badge)](https://github.com/SriSatyaLokesh/best-prd-template)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-View%20Live-darkgreen?style=for-the-badge&logo=github)](https://SriSatyaLokesh.github.io/best-prd-template/)
 
 
 **Stop shipping bugs and missing deadlines. Use the most comprehensive, AI-optimized Product Requirements Document (PRD) and Technical Requirements Document (TRD) templates ever built for modern engineering teams.**
